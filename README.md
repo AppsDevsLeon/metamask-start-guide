@@ -31,7 +31,7 @@ https://metamask.io/
   - Edge
 - Your browser will then direct you to their "web store" to download the extension. (Example pictures will be shown in the Chrome browser)
 
-![chrome-web-store](https://user-images.githubusercontent.com/17716182/173207798-2e298f75-1e20-41c5-bd28-e3946b5d071c.png)
+![chrome-web-store](https://user-images.githubusercontent.com/17716182/173207996-306f379f-fee9-4547-937d-e4f6a0de7a3a.png)
 
 ## Step 3: Run through the Set-Up
 
@@ -64,7 +64,7 @@ https://metamask.io/
 
 ![metamask-secret-input](https://user-images.githubusercontent.com/17716182/173207841-6ad0d8cd-0875-4c50-ba6f-eac002a995b4.png)
 
-## _And..._
+### _And..._
 
 ## Step 8: You're done! 🥳
 
@@ -76,8 +76,8 @@ No, seriously that's it! You've successfully started your journey into DeFi with
 
 Let's go over the UI (User Interface) so you know what to expect.
 
-![metamask-welcome](https://user-images.githubusercontent.com/17716182/173207874-7f8f2e58-a8e8-47d1-ba3b-b07ea0443fcd.png)
-
 ## UI Walkthrough
+
+![metamask-welcome](https://user-images.githubusercontent.com/17716182/173207874-7f8f2e58-a8e8-47d1-ba3b-b07ea0443fcd.png)
 
 Click on the MetaMask tab and it will prompt you for a password.
