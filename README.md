@@ -1,4 +1,4 @@
-# How to get started using MetaMask (Desktop Edition)
+# How to Get Started with MetaMask (Desktop Edition)
 
 MetaMask has risen to the de facto crypto wallet to traverse through the DeFi landscape. 30 million users worldwide, at the time of this article, and that number keeps climbing.
 
