@@ -1,5 +1,5 @@
 # How to Get Started with MetaMask (_Desktop Edition_)
-##### By the end of this article, you'll have a clear understanding of the MetaMask Wallet, how to download it, and tips to keep your funds safe and your experience a good one.
+##### By the end of this article, you'll have a clear understanding of how to download and use the MetaMask Wallet, and tips to keep your funds safe.
 ###### 10 minuted read 📖
 
 ---
