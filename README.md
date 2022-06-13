@@ -76,7 +76,7 @@ Let's get started!
 ![metamask-congrats](https://user-images.githubusercontent.com/17716182/173207846-682b38d0-eecf-4bc7-a1fc-ae27044c5003.png)
 <br>
 <br>
-No, seriously that's it! You've successfully started your journey into DeFi with the help of MetaMask! You should see a tiny fox in your extensions tab appear.
+You've successfully started your journey into DeFi with the help of MetaMask! You should see a tiny fox in your extensions tab appear.
 <br>
 <br>
 ![2022-06-09_11-46-54](https://user-images.githubusercontent.com/17716182/173207860-70e5f5d4-d120-4127-944d-48cbf59b55c1.png)
