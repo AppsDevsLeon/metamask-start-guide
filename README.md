@@ -6,7 +6,7 @@
 
 ## Crypto Wallet 101
 
-Welcome to DeFi! I HIGHLY recommend reading [this article](https://metamask.zendesk.com/hc/en-us/articles/360015489611) if you are completely new to cryptocurrencies and blockchain technology. It will get you caught up quickly on how it all works and the "lingo" associated to keep your link-clicking to a minimum. 
+Welcome to DeFi! I **_highly_** recommend reading [this article](https://metamask.zendesk.com/hc/en-us/articles/360015489611) if you are completely new to cryptocurrencies and blockchain technology. It will get you caught up quickly on how it all works and the "lingo" associated to keep your link-clicking to a minimum. 
 
 MetaMask has risen to the most popular crypto wallet to traverse through the DeFi ([Decentralized Finance](https://blog.coinbase.com/a-beginners-guide-to-decentralized-finance-defi-574c68ff43c4)) landscape. 30 million users worldwide, at the time of this article, and that number keeps climbing. All EVM ([_Ethereum Virtual Machine_](https://moralis.io/evm-explained-what-is-ethereum-virtual-machine/)) DeFi protocols make sure they support MetaMask wallets first and foremost so you'll be set up for success.
 
