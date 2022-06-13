@@ -58,7 +58,8 @@ Let's get started!
 ## Step 6: Secret Recovery Phrase
 
 - This is where you'll need a pen and paper (or metal plate if you're hardcore) to store your Secret Recovery Phrase offline out of reach of hackers.
-  ❗️**_Note_** - You may see Secret Recovery Phrase called "seed phrase" in the wild. This is the original term but was recently changed in order to reduce confusion amongst new users.
+
+❗️**Note** - You may see Secret Recovery Phrase called "seed phrase" in the wild. This is the original term but was recently changed in order to reduce confusion amongst new users.
 
 ![metamask-secret-phrase](https://user-images.githubusercontent.com/17716182/173207832-f8f193a9-3ed4-4b90-af5f-fbf2714a071b.png)
 <br>
