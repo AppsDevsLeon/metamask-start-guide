@@ -1,4 +1,4 @@
-# How to Get Started with MetaMask (Desktop Edition)
+# How to Get Started with MetaMask (_Desktop Edition_)
 
 MetaMask has risen to the de facto crypto wallet to traverse through the DeFi landscape. 30 million users worldwide, at the time of this article, and that number keeps climbing. All EVM ([_Ethereum Virtual Machine_](https://moralis.io/evm-explained-what-is-ethereum-virtual-machine/)) DeFi protocols make sure they support MetaMask wallets first and foremost so you'll be set up for success.
 
