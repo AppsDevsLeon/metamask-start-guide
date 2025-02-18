@@ -1,4 +1,4 @@
-# Cómo empezar con MetaMask (_Edición de Escritorio_)
+# Cómo empezar con MetaMask 
 
 ##### Al final de este artículo, tendrás una comprensión clara sobre cómo descargar y usar la billetera MetaMask, además de consejos para mantener tus fondos seguros.
 ###### Lectura de 10 minutos 📖
