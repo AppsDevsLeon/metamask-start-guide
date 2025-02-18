@@ -1,8 +1,7 @@
 # Cómo empezar con MetaMask (_Edición de escritorio_)
-##### Al final de este artículo, tendrás una comprensión clara de cómo descargar y usar la billetera MetaMask, además de algunos consejos para mantener tus fondos seguros.
-###### Lectura de 10 minutos 📖
 
----
+
+
 
 ## Introducción a las billeteras de criptomonedas
 
@@ -18,7 +17,7 @@ MetaMask se ha convertido en la billetera de criptomonedas más popular para mov
 
 - [https://metamask.io/](https://metamask.io/)
 
-❗️ **Nota** - Acostúmbrate a pasar el cursor sobre los enlaces antes de hacer clic en ellos. Explicaré por qué más adelante en esta guía.
+❗**Nota** - Acostúmbrate a pasar el cursor sobre los enlaces antes de hacer clic en ellos. Explicaré por qué más adelante en esta guía.
 
 ## Paso 2: ¡Elige tu navegador!
 
