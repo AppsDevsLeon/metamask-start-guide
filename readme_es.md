@@ -3,17 +3,7 @@
 ##### Al final de este artículo, tendrás una comprensión clara sobre cómo descargar y usar la billetera MetaMask, además de consejos para mantener tus fondos seguros.
 ###### Lectura de 10 minutos 📖
 
----
 
-## Introducción a las billeteras cripto
-
-¡Bienvenido a DeFi! **_Te recomiendo encarecidamente_** que leas [este artículo](https://metamask.zendesk.com/hc/en-us/articles/360015489611) si eres completamente nuevo en criptomonedas y tecnología blockchain. Te ayudará a ponerte al día rápidamente sobre cómo funciona todo y el "lenguaje" asociado, evitando así que tengas que hacer demasiados clics en enlaces.
-
-MetaMask se ha convertido en la billetera cripto más popular para moverse dentro del mundo DeFi ([Finanzas Descentralizadas](https://blog.coinbase.com/a-beginners-guide-to-decentralized-finance-defi-574c68ff43c4)). Actualmente cuenta con más de 30 millones de usuarios en todo el mundo, y ese número sigue aumentando. Todos los protocolos DeFi basados en EVM ([_Ethereum Virtual Machine_](https://moralis.io/evm-explained-what-is-ethereum-virtual-machine/)) aseguran compatibilidad con MetaMask como prioridad, lo que te garantiza estar preparado para el éxito.
-
-¡Empecemos!
-
----
 
 ## Paso 1: Página oficial de MetaMask
 
