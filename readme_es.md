@@ -98,16 +98,16 @@ MetaMask se ha convertido en la billetera cripto más popular para moverse dentr
 
 ## Consejos clave
 
-### ❌ _NUNCA_ compartas tu Frase de Recuperación Secreta.
+❌ _NUNCA_ compartas tu Frase de Recuperación Secreta.
 Si alguien te la pide, es una estafa. Solo ingrésala en la aplicación oficial de MetaMask.
 
-### 🔍 Pasa el cursor sobre los enlaces antes de hacer clic.
+🔍 Pasa el cursor sobre los enlaces antes de hacer clic.
 Evita acceder a sitios maliciosos verificando que los enlaces sean legítimos.
 
-### 📌 Usa marcadores.
+📌 Usa marcadores.
 Guarda tus sitios de confianza para evitar caer en sitios falsos.
 
-### 💸 Prueba con pequeñas cantidades primero.
+💸 Prueba con pequeñas cantidades primero.
 Antes de enviar grandes cantidades, haz una prueba con una cantidad pequeña.
 
 ---
